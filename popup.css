@@ -1,0 +1,13 @@
+body {
+  width: 780px;
+  heght: 496px;
+  margin: 5px;
+}
+
+#footer {
+  text-align: right;
+}
+
+a {
+  color: #aaaaaa;
+}
